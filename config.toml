@@ -2,3 +2,11 @@ baseURL = 'https://thbertoldi.github.io/'
 languageCode = 'en-us'
 title = 'IoT Software Development'
 theme = "ananke"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/epifaniautopica"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/thiago-bertoldi"
