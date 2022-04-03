@@ -10,3 +10,7 @@ url = "https://twitter.com/epifaniautopica"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://linkedin.com/in/thiago-bertoldi"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/thbertoldi/"
